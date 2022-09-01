@@ -1,6 +1,7 @@
-# Hey, sou o Filipe.
+# Olá, gosto em ter-te aqui! 👋
 
-Aluno de Engenharia Informática, com interesse em desenvolvimento de aplicações e software.
+Sou o Filipe, atual aluno de Engenharia Informática. 💻
 
-Estatísticas do meu perfil:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+Com o bichinho pela tecnologia, sempre gostei de explorar e aprender novos conceitos. 
+
+<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-meloo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
