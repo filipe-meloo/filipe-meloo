@@ -1,12 +1,5 @@
 <h1 align="center">Olá! 👋</h1>
 
-<style>
-    div {
-    display: flex;
-    justify-content: center;
-    }
-</style>
-
 <!-- Social Media -->
 <div width="100%" display="flex" align="center">
     <a href="https://www.instagram.com/filipe__meloo/" target="_blank"><img src="https://github.com/filipe-meloo/filipe-meloo/blob/main/icons/social/instagram.png" height="75px"></a>
