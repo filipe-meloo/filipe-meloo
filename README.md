@@ -1,7 +1,8 @@
 <h1 align="center">Olá! 👋</h1>
 
 <!-- Social Media -->
-<div width="100%">
+## Redes Sociais
+<div width="100%" display="flex" align="center">
     <a href="https://www.instagram.com/filipe__meloo/" target="_blank"><img src="https://github.com/filipe-meloo/filipe-meloo/blob/main/icons/social/instagram.png" height="75px"></a>
     <a href="https://twitter.com/filipe__meloo" target="_blank"><img src="https://github.com/filipe-meloo/filipe-meloo/blob/main/icons/social/twitter.png" height="75px"></a>
     <a href="http://steamcommunity.com/profiles/76561198852343311" target="_blank"><img src="https://github.com/filipe-meloo/filipe-meloo/blob/main/icons/social/steam.png" height="75px"></a>
