@@ -2,7 +2,7 @@
 
 Sou o Filipe, atual aluno de Engenharia Informática. 💻
 
-![](https://github.com/filipe-meloo/filipe-meloo/blob/main/imgs/giffilipe.gif)
+<img height="150px" src="https://github.com/filipe-meloo/filipe-meloo/blob/main/imgs/giffilipe.gif">
 
 Com o bichinho pela tecnologia, sempre gostei de explorar e aprender novos conceitos. 
 
