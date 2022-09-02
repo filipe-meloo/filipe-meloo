@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋</h1>
 
-### Sou o Filipe, estudante de Engenharia Informática. 💻
+<h3 align="center">Sou o Filipe, estudante de Engenharia Informática. 💻</h3>
 
 <!-- Social Media -->
 <div width="100%" display="flex" align="center">
