@@ -17,4 +17,4 @@ Com o bichinho pela tecnologia, sempre gostei de explorar e aprender novos conce
 Atualmente não dou muito uso aos meus repositórios, apenas para guardar e publicar alguns pequenos projetos.
 **Talvez** no futuro sou capaz de dar mais uso a isto :P
 
-<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-meloo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-meloo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
