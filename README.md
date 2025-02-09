@@ -13,6 +13,6 @@
 
 <br><br>
 
-Encontro-me no último ano da Licenciatura e atualmente nesta página do GitHub vão existir repositórios para hobbys/projetos que ue desenvolva.
+Encontro-me no último ano da Licenciatura e atualmente nesta página do GitHub vão existir repositórios para hobbys/projetos que eu desenvolva.
 
 <br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-meloo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
